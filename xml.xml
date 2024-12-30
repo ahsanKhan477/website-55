@@ -1,0 +1,28 @@
+<?xml versio="1.0" encoding="utf-8"?>
+<bookstore>
+<book category="Sport">
+    <title>Circket</title>
+    <author>saim Ayu></author>
+    <year></year>
+    <price></price>
+</book>
+    
+<book category="Food">
+<title>Circket</title>
+    <author>saim Ayu></author>
+    <year></year>
+    <price></price>
+</book>
+<book category="Cooking">\
+<title>Circket</title>
+    <author>saim Ayu></author>
+    <year></year>
+    <price></price>
+</book>
+<book category="Children">
+<title>Circket</title>
+    <author>saim Ayu></author>
+    <year></year>
+    <price></price>
+</book>
+</bookstore>
